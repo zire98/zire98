@@ -69,7 +69,7 @@ Backend tech, software engineering, frameworks, and any interesting nerdy topic 
 <p align="center">
    <br>
 <br>	
-<a align="center"target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a align="center"target="_blank" href="www.linkedin.com/in/eriz-godrovich"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
 <br>
 </p>
