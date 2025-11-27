@@ -59,7 +59,7 @@ Backend tech, software engineering, frameworks, and any interesting nerdy topic 
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=zire98&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/zire98)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=zire98&theme=material-palenight)](https://github.com/zire98)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zire98&theme=material-palenight)](https://git.io/streak-stats)
 </div>
 
 
